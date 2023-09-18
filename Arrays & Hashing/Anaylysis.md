@@ -33,3 +33,7 @@ for elem in nums
 	if difference in elementToIndex:
 		return {index of elem, elementToIndex [difference]}		
 	put (elem, elem index) in elementToIndex
+ 
+### Analysis
+Time complexity: O(N)
+Space complexity: O(N)
