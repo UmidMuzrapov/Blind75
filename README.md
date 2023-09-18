@@ -11,22 +11,25 @@ The questions are organized by the problem type and stored in the corresponding 
    - [x] Valid Anagram
    - [x] Two Sum
    - [ ] Group Anagrams
-   - [ ] Top K Frequent Elements
-   - [ ] Product of Array Except Self
+   - [x] Top K Frequent Elements
+   - [x] Product of Array Except Self
+   - [ ] Encode and Decode Strings
+   - [ ] Longest Consecutive Sequency
 2. Two Pointers
-3. Sliding Window
-4. Stack
-5. Binary Search
-6. LinkedList
-7. Trees
-8. Tries
-9. Heap/Priority Queue
-10. Backtracking
-11. Graphs
-12. Advanced Graphs
-13. 1-D Dynamic Programming
-14. 2-D Dynamic Programming
-15. Greedy
-16. Intervals
-17. Math & Geometry
-18. Bit Manipulation  
+   
+4. Sliding Window
+5. Stack
+6. Binary Search
+7. LinkedList
+8. Trees
+9. Tries
+10. Heap/Priority Queue
+11. Backtracking
+12. Graphs
+13. Advanced Graphs
+14. 1-D Dynamic Programming
+15. 2-D Dynamic Programming
+16. Greedy
+17. Intervals
+18. Math & Geometry
+19. Bit Manipulation  
