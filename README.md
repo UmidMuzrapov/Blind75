@@ -7,9 +7,9 @@ The repository contains solutions for Blind 75 questions. The questions are take
 The questions are organized by the problem type and stored in the corresponding repositories.
 
 1. Arrays & Hashing
-   - [ ] Contains Duplicate
-   - [ ] Valid Anagram
-   - [ ] Two Sum
+   - [x] Contains Duplicate
+   - [x] Valid Anagram
+   - [x] Two Sum
    - [ ] Group Anagrams
    - [ ] Top K Frequent Elements
    - [ ] Product of Array Except Self
