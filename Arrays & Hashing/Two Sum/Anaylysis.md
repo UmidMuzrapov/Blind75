@@ -28,12 +28,14 @@ It is also important to mention that we should be put an entry in the map only a
 the visiting the element itself twice if doubling the current element would be equal to the target.
 
 ### Pseudocode
+```
 map<Integer, Integer> => elementToIndex;
 for elem in nums
 	target - elem => difference
 	if difference in elementToIndex:
 		return {index of elem, elementToIndex [difference]}		
 	put (elem, elem index) in elementToIndex
+```
  
 ### Analysis
 Time complexity: O(N)
