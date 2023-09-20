@@ -14,7 +14,7 @@ The questions are organized by the problem type and stored in the corresponding 
    - [x] Top K Frequent Elements
    - [x] Product of Array Except Self
    - [ ] Encode and Decode Strings (Locked)
-   - [ ] Longest Consecutive Sequency
+   - [x] Longest Consecutive Sequency
 2. Two Pointers
    
 4. Sliding Window
