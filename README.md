@@ -25,8 +25,10 @@ The questions are organized by the problem type and stored in the corresponding 
    - [ ] Longest Repeating Character Replacement
    - [ ] Minimum Window Substring
 6. Stack
-   -[ ] Valid Parentheses
+   - [ ] Valid Parentheses
 8. Binary Search
+   - [ ] Find Minimum In Rotated Sorted Array
+   - [ ] Search In Rotated Sorted Array
 10. LinkedList
 11. Trees
 12. Tries
