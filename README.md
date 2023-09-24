@@ -20,18 +20,23 @@ The questions are organized by the problem type and stored in the corresponding 
    - [x] 3Sum
    - [x] Container With Most Water
 4. Sliding Window
-5. Stack
-6. Binary Search
-7. LinkedList
-8. Trees
-9. Tries
-10. Heap/Priority Queue
-11. Backtracking
-12. Graphs
-13. Advanced Graphs
-14. 1-D Dynamic Programming
-15. 2-D Dynamic Programming
-16. Greedy
-17. Intervals
-18. Math & Geometry
-19. Bit Manipulation  
+   - [ ] Best Time to Buy And Sell Stock
+   - [ ] Longest Substring Without Repeating Characters
+   - [ ] Longest Repeating Character Replacement
+   - [ ] Minimum Window Substring
+6. Stack
+   -[ ] Valid Parentheses
+8. Binary Search
+10. LinkedList
+11. Trees
+12. Tries
+13. Heap/Priority Queue
+14. Backtracking
+15. Graphs
+16. Advanced Graphs
+17. 1-D Dynamic Programming
+18. 2-D Dynamic Programming
+19. Greedy
+20. Intervals
+21. Math & Geometry
+22. Bit Manipulation  
