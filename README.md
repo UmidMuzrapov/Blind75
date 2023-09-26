@@ -20,8 +20,8 @@ The questions are organized by the problem type and stored in the corresponding 
    - [x] 3Sum
    - [x] Container With Most Water
 4. Sliding Window
-   - [ ] Best Time to Buy And Sell Stock
-   - [ ] Longest Substring Without Repeating Characters
+   - [x] Best Time to Buy And Sell Stock
+   - [x] Longest Substring Without Repeating Characters
    - [ ] Longest Repeating Character Replacement
    - [ ] Minimum Window Substring
 6. Stack
