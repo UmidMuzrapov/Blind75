@@ -22,23 +22,40 @@ The questions are organized by the problem type and stored in the corresponding 
 4. Sliding Window
    - [x] Best Time to Buy And Sell Stock
    - [x] Longest Substring Without Repeating Characters
-   - [x] Longest Repeating Character Replacement
+   - [ ] Longest Repeating Character Replacement
    - [ ] Minimum Window Substring
 6. Stack
    - [x] Valid Parentheses
 8. Binary Search
-   - [ ] Find Minimum In Rotated Sorted Array
-   - [ ] Search In Rotated Sorted Array
+   - [x] Find Minimum In Rotated Sorted Array
+   - [x] Search In Rotated Sorted Array
 10. LinkedList
-11. Trees
-12. Tries
-13. Heap/Priority Queue
-14. Backtracking
-15. Graphs
-16. Advanced Graphs
-17. 1-D Dynamic Programming
-18. 2-D Dynamic Programming
-19. Greedy
-20. Intervals
-21. Math & Geometry
-22. Bit Manipulation  
+    - [x] Reverse Linked List
+    - [x] Merge Two Sorted Lists
+    - [ ] Reorder List
+    - [ ] Remove Nth Node From End of List
+    - [ ] Linked List Cycle
+    - [ ] Merge K Sorted Lists
+12. Trees
+    - [x] Invert Binary Tree
+    - [x] Maximum Depth of Binary Tree
+    - [x] Same Tree
+    - [x] Subtree of Another Tree
+    - [ ] Lowest Common Ancestor of a Binary Search Tree
+    - [ ] Binary Tree Level Order Traversal
+    - [ ] Validate Binary Search Tree
+    - [ ] Kth Smallest Element In a Bst
+    - [ ] Construct Binary Tree From Preorder And Inorder Traversal
+    - [ ] Binary Tree Maximum Path Sum
+    - [ ] Serialize And Deserialize Binary Tree 
+14. Tries
+15. Heap/Priority Queue
+16. Backtracking
+17. Graphs
+18. Advanced Graphs
+19. 1-D Dynamic Programming
+20. 2-D Dynamic Programming
+21. Greedy
+22. Intervals
+23. Math & Geometry
+24. Bit Manipulation  
