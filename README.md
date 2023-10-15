@@ -35,7 +35,7 @@ The questions are organized by the problem type and stored in the corresponding 
     - [x] Reorder List
     - [x] Remove Nth Node From End of List
     - [x] Linked List Cycle
-    - [ ] Merge K Sorted Lists
+    - [x] Merge K Sorted Lists
 12. Trees
     - [x] Invert Binary Tree
     - [x] Maximum Depth of Binary Tree
