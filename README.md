@@ -32,9 +32,9 @@ The questions are organized by the problem type and stored in the corresponding 
 10. LinkedList
     - [x] Reverse Linked List
     - [x] Merge Two Sorted Lists
-    - [ ] Reorder List
-    - [ ] Remove Nth Node From End of List
-    - [ ] Linked List Cycle
+    - [x] Reorder List
+    - [x] Remove Nth Node From End of List
+    - [x] Linked List Cycle
     - [ ] Merge K Sorted Lists
 12. Trees
     - [x] Invert Binary Tree
