@@ -43,7 +43,7 @@ The questions are organized by the problem type and stored in the corresponding 
     - [x] Subtree of Another Tree
     - [ ] Lowest Common Ancestor of a Binary Search Tree
     - [ ] Binary Tree Level Order Traversal
-    - [ ] Validate Binary Search Tree
+    - [x] Validate Binary Search Tree
     - [ ] Kth Smallest Element In a Bst
     - [ ] Construct Binary Tree From Preorder And Inorder Traversal
     - [ ] Binary Tree Maximum Path Sum
@@ -52,10 +52,30 @@ The questions are organized by the problem type and stored in the corresponding 
 15. Heap/Priority Queue
 16. Backtracking
 17. Graphs
-18. Advanced Graphs
-19. 1-D Dynamic Programming
-20. 2-D Dynamic Programming
-21. Greedy
-22. Intervals
-23. Math & Geometry
-24. Bit Manipulation  
+    - [x] Number of Islands
+    - [x] Clone Graph
+    - [x] Pacific Atlantic Water Flow
+    - [x] Course Schedule
+    - [ ] Number of Connected Components In An Undirected Graph
+    - [ ] Graph Valid Tree 
+19. Advanced Graphs
+20. 1-D Dynamic Programming
+    - [x] Climbing Stairs
+    - [x] House Robber
+    - [x] House Robber II
+    - [x] Longest Palindromic Substring
+    - [ ] Palindromic Substrings
+    - [x] Decode Ways
+    - [ ] Coin Change
+    - [ ] Maximum Product Subarray
+    - [x] Word Break
+    - [ ] Longest Increasing Subsequence 
+22. 2-D Dynamic Programming
+    - [x] Unique Paths
+    - [ ] Longest Common Subsequence
+24. Greedy
+    - [x] Maximum Subarray
+    - [ ] Jump Game 
+26. Intervals
+27. Math & Geometry
+28. Bit Manipulation  
