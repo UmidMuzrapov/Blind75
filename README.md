@@ -41,7 +41,7 @@ The questions are organized by the problem type and stored in the corresponding 
     - [x] Maximum Depth of Binary Tree
     - [x] Same Tree
     - [x] Subtree of Another Tree
-    - [ ] Lowest Common Ancestor of a Binary Search Tree
+    - [x] Lowest Common Ancestor of a Binary Search Tree
     - [ ] Binary Tree Level Order Traversal
     - [x] Validate Binary Search Tree
     - [ ] Kth Smallest Element In a Bst
