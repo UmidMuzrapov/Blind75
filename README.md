@@ -22,7 +22,7 @@ The questions are organized by the problem type and stored in the corresponding 
 4. Sliding Window
    - [x] Best Time to Buy And Sell Stock
    - [x] Longest Substring Without Repeating Characters
-   - [ ] Longest Repeating Character Replacement
+   - [x] Longest Repeating Character Replacement
    - [ ] Minimum Window Substring
 6. Stack
    - [x] Valid Parentheses
