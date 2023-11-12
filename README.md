@@ -23,7 +23,7 @@ The questions are organized by the problem type and stored in the corresponding 
    - [x] Best Time to Buy And Sell Stock
    - [x] Longest Substring Without Repeating Characters
    - [x] Longest Repeating Character Replacement
-   - [ ] Minimum Window Substring
+   - [x] Minimum Window Substring
 6. Stack
    - [x] Valid Parentheses
 8. Binary Search
