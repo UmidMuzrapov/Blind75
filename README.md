@@ -23,7 +23,7 @@ The questions are organized by the problem type and stored in the corresponding 
    - [x] Best Time to Buy And Sell Stock
    - [x] Longest Substring Without Repeating Characters
    - [x] Longest Repeating Character Replacement
-   - [ ] Minimum Window Substring
+   - [x] Minimum Window Substring
 6. Stack
    - [x] Valid Parentheses
 8. Binary Search
@@ -44,7 +44,7 @@ The questions are organized by the problem type and stored in the corresponding 
     - [x] Lowest Common Ancestor of a Binary Search Tree
     - [ ] Binary Tree Level Order Traversal
     - [x] Validate Binary Search Tree
-    - [ ] Kth Smallest Element In a Bst
+    - [x] Kth Smallest Element In a Bst
     - [ ] Construct Binary Tree From Preorder And Inorder Traversal
     - [ ] Binary Tree Maximum Path Sum
     - [ ] Serialize And Deserialize Binary Tree 
