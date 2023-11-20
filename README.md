@@ -44,7 +44,7 @@ The questions are organized by the problem type and stored in the corresponding 
     - [x] Lowest Common Ancestor of a Binary Search Tree
     - [ ] Binary Tree Level Order Traversal
     - [x] Validate Binary Search Tree
-    - [ ] Kth Smallest Element In a Bst
+    - [x] Kth Smallest Element In a Bst
     - [ ] Construct Binary Tree From Preorder And Inorder Traversal
     - [ ] Binary Tree Maximum Path Sum
     - [ ] Serialize And Deserialize Binary Tree 
