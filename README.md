@@ -42,7 +42,7 @@ The questions are organized by the problem type and stored in the corresponding 
     - [x] Same Tree
     - [x] Subtree of Another Tree
     - [x] Lowest Common Ancestor of a Binary Search Tree
-    - [ ] Binary Tree Level Order Traversal
+    - [x] Binary Tree Level Order Traversal
     - [x] Validate Binary Search Tree
     - [x] Kth Smallest Element In a Bst
     - [ ] Construct Binary Tree From Preorder And Inorder Traversal
