@@ -49,9 +49,12 @@ The questions are organized by the problem type and stored in the corresponding 
     - [ ] Binary Tree Maximum Path Sum
     - [ ] Serialize And Deserialize Binary Tree 
 14. Tries
-15. Heap/Priority Queue
-16. Backtracking
-17. Graphs
+    - [x] Implement Trie Prefix Tree
+    - [x] Design Add And Search Words Data Structure
+    - [ ] Word Search II 
+16. Heap/Priority Queue
+17. Backtracking
+18. Graphs
     - [x] Number of Islands
     - [x] Clone Graph
     - [x] Pacific Atlantic Water Flow
