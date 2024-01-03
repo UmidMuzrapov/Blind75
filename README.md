@@ -53,16 +53,20 @@ The questions are organized by the problem type and stored in the corresponding 
     - [x] Design Add And Search Words Data Structure
     - [ ] Word Search II 
 16. Heap/Priority Queue
-17. Backtracking
-18. Graphs
+    - [x] Find Median From Data Stream
+18. Backtracking
+    - [x] Combination Sum
+    - [x] Word Search
+20. Graphs
     - [x] Number of Islands
     - [x] Clone Graph
     - [x] Pacific Atlantic Water Flow
     - [x] Course Schedule
     - [ ] Number of Connected Components In An Undirected Graph
     - [ ] Graph Valid Tree 
-19. Advanced Graphs
-20. 1-D Dynamic Programming
+21. Advanced Graphs
+    - [ ] Alien Dictionary
+23. 1-D Dynamic Programming
     - [x] Climbing Stairs
     - [x] House Robber
     - [x] House Robber II
@@ -73,12 +77,25 @@ The questions are organized by the problem type and stored in the corresponding 
     - [ ] Maximum Product Subarray
     - [x] Word Break
     - [ ] Longest Increasing Subsequence 
-22. 2-D Dynamic Programming
+24. 2-D Dynamic Programming
     - [x] Unique Paths
     - [ ] Longest Common Subsequence
-24. Greedy
+25. Greedy
     - [x] Maximum Subarray
     - [ ] Jump Game 
 26. Intervals
-27. Math & Geometry
-28. Bit Manipulation  
+   - [ ]  Insert Interval
+   - [ ]  Merge Intervals
+   - [ ]  Non Overlapping Intervals
+   - [ ]  Meeting Rooms
+   - [ ]  Meeting Rooms II
+28. Math & Geometry
+   - [ ] Rotate Image
+   - [ ] Spiral Matrix
+   - [ ] Set Matrix Zeroes
+29. Bit Manipulation
+   - [ ] Number of 1 Bits
+   - [ ] Number of 1 Bits
+   - [ ] Reverse Bits
+   - [ ] Missing Number
+   - [ ] Sum of Two Integers
