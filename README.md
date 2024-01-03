@@ -84,18 +84,18 @@ The questions are organized by the problem type and stored in the corresponding 
     - [x] Maximum Subarray
     - [ ] Jump Game 
 26. Intervals
-   - [ ]  Insert Interval
-   - [ ]  Merge Intervals
-   - [ ]  Non Overlapping Intervals
-   - [ ]  Meeting Rooms
-   - [ ]  Meeting Rooms II
+    - [ ]  Insert Interval
+    - [ ]  Merge Intervals
+    - [ ]  Non Overlapping Intervals
+    - [ ]  Meeting Rooms
+    - [ ]  Meeting Rooms II
 28. Math & Geometry
-   - [ ] Rotate Image
-   - [ ] Spiral Matrix
-   - [ ] Set Matrix Zeroes
+    - [ ] Rotate Image
+    - [ ] Spiral Matrix
+    - [ ] Set Matrix Zeroes
 29. Bit Manipulation
-   - [ ] Number of 1 Bits
-   - [ ] Number of 1 Bits
-   - [ ] Reverse Bits
-   - [ ] Missing Number
-   - [ ] Sum of Two Integers
+    - [ ] Number of 1 Bits
+    - [ ] Number of 1 Bits
+    - [ ] Reverse Bits
+    - [ ] Missing Number
+    - [ ] Sum of Two Integers
