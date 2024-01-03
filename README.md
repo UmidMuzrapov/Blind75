@@ -56,7 +56,7 @@ The questions are organized by the problem type and stored in the corresponding 
     - [x] Find Median From Data Stream
 18. Backtracking
     - [x] Combination Sum
-    - [ ] Word Search
+    - [x] Word Search
 20. Graphs
     - [x] Number of Islands
     - [x] Clone Graph
