@@ -82,7 +82,7 @@ The questions are organized by the problem type and stored in the corresponding 
     - [ ] Longest Common Subsequence
 25. Greedy
     - [x] Maximum Subarray
-    - [ ] Jump Game 
+    - [x] Jump Game 
 26. Intervals
     - [ ]  Insert Interval
     - [ ]  Merge Intervals
