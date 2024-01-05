@@ -94,7 +94,7 @@ The questions are organized by the problem type and stored in the corresponding 
     - [ ] Spiral Matrix
     - [ ] Set Matrix Zeroes
 29. Bit Manipulation
-    - [ ] Number of 1 Bits
+    - [x] Number of 1 Bits
     - [ ] Number of 1 Bits
     - [ ] Reverse Bits
     - [ ] Missing Number
