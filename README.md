@@ -85,10 +85,10 @@ The questions are organized by the problem type and stored in the corresponding 
     - [x] Jump Game 
 26. Intervals
     - [x]  Insert Interval
-    - [ ]  Merge Intervals
-    - [ ]  Non Overlapping Intervals
-    - [ ]  Meeting Rooms
-    - [ ]  Meeting Rooms II
+    - [x]  Merge Intervals
+    - [x]  Non Overlapping Intervals
+    - [x]  Meeting Rooms
+    - [x]  Meeting Rooms II
 28. Math & Geometry
     - [ ] Rotate Image
     - [ ] Spiral Matrix
