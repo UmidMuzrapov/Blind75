@@ -92,7 +92,7 @@ The questions are organized by the problem type and stored in the corresponding 
 28. Math & Geometry
     - [x] Rotate Image
     - [x] Spiral Matrix
-    - [ ] Set Matrix Zeroes
+    - [x] Set Matrix Zeroes
 29. Bit Manipulation
     - [x] Number of 1 Bits
     - [ ] Counting Bits
