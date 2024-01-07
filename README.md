@@ -91,7 +91,7 @@ The questions are organized by the problem type and stored in the corresponding 
     - [x]  Meeting Rooms II
 28. Math & Geometry
     - [x] Rotate Image
-    - [ ] Spiral Matrix
+    - [x] Spiral Matrix
     - [ ] Set Matrix Zeroes
 29. Bit Manipulation
     - [x] Number of 1 Bits
