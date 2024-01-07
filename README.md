@@ -90,12 +90,12 @@ The questions are organized by the problem type and stored in the corresponding 
     - [x]  Meeting Rooms
     - [x]  Meeting Rooms II
 28. Math & Geometry
-    - [ ] Rotate Image
+    - [x] Rotate Image
     - [ ] Spiral Matrix
     - [ ] Set Matrix Zeroes
 29. Bit Manipulation
     - [x] Number of 1 Bits
-    - [ ] Number of 1 Bits
+    - [ ] Counting Bits
     - [ ] Reverse Bits
     - [ ] Missing Number
     - [ ] Sum of Two Integers
