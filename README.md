@@ -95,7 +95,7 @@ The questions are organized by the problem type and stored in the corresponding 
     - [x] Set Matrix Zeroes
 29. Bit Manipulation
     - [x] Number of 1 Bits
-    - [ ] Counting Bits
-    - [ ] Reverse Bits
-    - [ ] Missing Number
-    - [ ] Sum of Two Integers
+    - [x] Counting Bits
+    - [x] Reverse Bits
+    - [x] Missing Number
+    - [x] Sum of Two Integers
